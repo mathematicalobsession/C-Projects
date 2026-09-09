@@ -1,5 +1,5 @@
-
 /*
+Name: Stella Wilcox
 Course: University of Illinois at Chicago 
 C/C++ Programming (CS107)
 Platform: zyBooks (Resource)
