@@ -1,5 +1,5 @@
-
 /*
+Name: Stella Wilcox
 Course: University of Illinois at Chicago 
 C/C++ Programming (CS107)
 Intructor: Jason Polakis (He created this assignment and showed us how to do it in class but I added the comments.)
