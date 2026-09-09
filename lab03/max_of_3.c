@@ -34,7 +34,7 @@ if (inputNum1 >= inputNum2 && inputNum1 >= inputNum3) {
 // if its true this next line of code executes 
    largestInput = inputNum1; //inputNum1 is the largest of the three so it gets set to a new name, that is largestInput
 }
-// so if the condition on line 18 is not true, the code will proceed to check if inputNum2 is bigger than or equal to inputNum1 and (&&) inputNum3
+// so if the condition on line 33 is not true, the code will proceed to check if inputNum2 is bigger than or equal to inputNum1 and (&&) inputNum3
 // note that an else-if statement is utilized here, an else-if statement checks a new condition if the preceding if condition turned out to be false
 else if (inputNum2 >= inputNum1 && inputNum2 >= inputNum3) {
 // if what is written above is true and inputNum2 is the largest number of the three, the following line of code will execute
