@@ -23,7 +23,7 @@ int main (void) {
         scanf("%d", &sideLength);
 
         // run the calcualtion for the cube's volume 
-        // mathematical operation: volume of cube = sideLength sideLength * sideLength
+        // mathematical operation: volume of cube = sideLength * sideLength * sideLength
 
         cubeVolume = (sideLength * sideLength * sideLength);
 
